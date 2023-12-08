@@ -3,6 +3,9 @@
     background-color: #242121;
     color: white;
 }
+.main{
+    padding-bottom: 50;
+}
 .nav-link{
     color: white;
 
@@ -12,6 +15,15 @@
     background-color: #242121;
 
 }
-    
+.pollution{
+    padding-top: 200px;
 }
+.card-img-top{
+    height: 100%;
+    width: 100%;
+}
+
+
+    
+
 =======
